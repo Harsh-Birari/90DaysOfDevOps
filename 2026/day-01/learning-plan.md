@@ -1,16 +1,21 @@
 What is your understanding of DevOps and Cloud Engineering?
+    In Simple Language The DevOps is a Combbination of Devloper And Oparesition in this the person is working on different different Tools to work your application securely,efficiencly and speedly.and maily all this things want to arrange in automation.
 Why you are starting learning DevOps & Cloud?
+    After completing my Diploma engineering in 2024 i was working on my business now the business settale down,so i am free to working on my dream Life as A IT Engineer as My Intress into Automation and AI.
 Where do you want to reach?
+   I looking forward to grab my first job as a DevOps Or Cloud Engineer.Also a best Contributor. 
 How you will stay consistent every single day?
+    Through my Challange i will connect with comminite to get motivations 
+
 Mention your current level
-(student / fresher / working professional / non-IT background, etc.)
+    fresher
 Define 3 clear goals for the next 90 days
-(example: deploy a production-grade application on Kubernetes)
+    deploy a production-grade application and get Job in this Market
 Define 3 core DevOps skills you want to build
-(example: Linux troubleshooting, CI/CD pipelines, Kubernetes debugging)
-Allocate a weekly time budget
-(example: 2–2.5 hours per day on weekdays, 4-6 hours weekends)
-Keep the document under 1 page
+    Linux troubleshooting, CI/CD pipelines, Kubernetes debugging, AI 
+Allocate a weekly time budget 
+    4-6 hours 
+
 
 **Linkedin Post**
 
@@ -36,3 +41,10 @@ My goal are:
 
  I will post my progress here every single day — no matter what!
 #90DaysOfDevOps #DevOps #TrainWithShubham
+
+
+How to Push on GitHub Fork Repo
+1 git status
+2 git add "file name"
+3 git commit -m "one line commit name"
+4 git push

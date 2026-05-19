@@ -34,3 +34,20 @@
         top - Display running processes
         htop - Interactive process viewer
 Process Topic Was Remaning
+
+
+**Linkedin Post**
+🚀 Day 02 of 90 Days of DevOps
+
+Today was all about Linux fundamentals — the backbone of every DevOps Engineer.
+
+🔹 Learned how:
+✅ The Linux OS works
+✅ Kernel, Shell & User Space interact
+✅ Core components of Linux
+✅ systemd, why it matters, and the role of PID 1
+
+🔹 Practiced essential Linux commands: ls, pwd, cd, mkdir, rmdir, cp, mv, touch, file, cat, head, tail, du, whoami, top, htop, vim df -h, free -h.
+💡 As I Practice Linux more and more it's make me More Confidence and Clear - Strong Basic = Strong DevOps Skills. 
+🙏 Thanks to Utho & Shubham Londhe for the guidance.
+#90DaysOfDevOps #TrainWithShubham  #LearningInPublic #Linux #DevOpsJourney #Systemd

@@ -1,5 +1,4 @@
 Ycreating  a cheat sheet of commands focused on:
- troubleshooting
 
 - Process Management
     ps aux - Display all running processes with detailed information.

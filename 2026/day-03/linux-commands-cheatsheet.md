@@ -1,4 +1,4 @@
-Ycreating  a cheat sheet of commands focused on:
+creating  a cheat sheet of commands focused on:
 
 - Process Management
     ps aux - Display all running processes with detailed information.
@@ -39,3 +39,19 @@ Ycreating  a cheat sheet of commands focused on:
     iostat - Monitor CPU and disk I/O performance.
     vmstat - Show system performance statistics.
     lsof -i :PORT - Find which process is using a specific port.
+
+
+    **Linkedin Post**
+    
+🚀 Day 03 of 90 Days of DevOps
+
+Today was all about Linux Commands, Today I Goes Deep Down Into The Linux Commands 
+
+🔹Mainly Focused On
+✅ Process Management
+✅ File System Management
+✅ Networking & Troubleshooting
+
+🔹 From My Understanding I Make My Own Commands Cheat Sheet That I Also Share Today.
+
+💡 As I Practice Linux more and more it's make me More Confident and Clear - Strong Basic = Strong DevOps Skills. 
